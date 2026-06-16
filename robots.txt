@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xiaohao7023.github.io/trainerschedule-seo/sitemap.xml
